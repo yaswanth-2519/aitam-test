@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.landing{
+    background-image: url(landing-page.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    padding-top: 19%;
+    
+}
+.landing h1{
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+}
+.landing p{
+    text-align: center;
+    font-size: 35px;
+    color: #ece9e9;
+}
+.landing button{
+    padding: 15px 30px;
+    background: transparent;
+    color: #fff;
+    cursor: pointer;
+    border: 1px solid white;
+    margin-top: 20px;
+    margin-left: 700px;
+    font-size: 20px;
+
+}
